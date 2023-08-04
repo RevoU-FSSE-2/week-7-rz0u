@@ -20,20 +20,19 @@ ul {
 }
 li {
   padding: 6px 10px;
-  border: 1px solid #eee;
   background-color: #24c2af;
   margin: 10px auto;
 }
 li h4 {
-  color: #f3bec5;
+  color: #000;
   margin: 0;
   text-transform: capitalize;
 }
 li p {
-  color: #aaaaaa;
+  color: #000;
   margin: 8px 0 0;
 }
-footer {
+.form-container {
   background: #24c2af;
   padding: 60px;
   margin-top: 60px;

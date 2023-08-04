@@ -12,7 +12,7 @@ formInput === null || formInput === void 0 ? void 0 : formInput.addEventListener
         `
     <li>
     <h4>${type}<h4>
-    <p>${formAmount} From ${formName} For ${formDetail}<p>
+    <p>Rp.${formAmount} From ${formName} For ${formDetail}<p>
     <li>
     `;
 });

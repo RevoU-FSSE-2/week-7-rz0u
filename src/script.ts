@@ -13,7 +13,7 @@ formInput?.addEventListener('submit', (e) => {
     `
     <li>
     <h4>${type}<h4>
-    <p>${formAmount} From ${formName} For ${formDetail}<p>
+    <p>Rp.${formAmount} From ${formName} For ${formDetail}<p>
     <li>
     `
 })
