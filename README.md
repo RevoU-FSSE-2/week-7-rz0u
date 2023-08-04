@@ -17,7 +17,7 @@ This is a super simple financial tracker web application built with TypeScript. 
 2. Navigate to the project directory: `cd financial-tracker`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run start`
-5. Open your web browser and navigate to `http://localhost:3000` to test the app locally.
+5. Right click on the file .html file and select "Open with Live-Server" to test the app locally
 
 ## Deployment to Netlify
 1. Sign in to [Netlify](https://www.netlify.com/) or create a new account.
@@ -27,11 +27,16 @@ This is a super simple financial tracker web application built with TypeScript. 
 
 ## Live Demo
 You can access the live demo of the Financial Tracker Web App [here](https://your-netlify-app-url.netlify.app).
+
 ## Project Structure
 The project has the following file structure:
+```
 financial-tracker/
 ├── index.html
 ├── styles.css
-└── app.ts // Main TypeScript file for the app logic
-
+├── dest
+|    └── app.js // Converted .ts file for production
+└── src 
+     └── app.ts // Main TypeScript file for the app logic
+```
 
