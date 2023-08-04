@@ -19,7 +19,7 @@ ul {
   list-style-type: none;
 }
 li {
-  padding: 6px 10px;
+  padding: 10px 10%;
   background-color: #24c2af;
   margin: 10px auto;
 }
@@ -66,11 +66,4 @@ button {
   padding: 6px;
   min-width: 80px;
   border-radius: 4px;
-}
-footer a {
-  text-align: center;
-  display: block;
-  color: #999;
-  margin-top: 40px;
-  font-size: 0.7em;
 }
