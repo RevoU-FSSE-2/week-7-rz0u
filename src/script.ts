@@ -16,4 +16,5 @@ formInput?.addEventListener('submit', (e) => {
     <p>Rp.${formAmount} From ${formName} For ${formDetail}<p>
     <li>
     `
+    formInput.reset()
 })

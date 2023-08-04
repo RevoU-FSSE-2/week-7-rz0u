@@ -15,4 +15,5 @@ formInput === null || formInput === void 0 ? void 0 : formInput.addEventListener
     <p>Rp.${formAmount} From ${formName} For ${formDetail}<p>
     <li>
     `;
+    formInput.reset();
 });
