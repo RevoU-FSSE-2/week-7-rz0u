@@ -13,6 +13,7 @@ h1 {
   margin: 40px auto;
   color: #24c2af;
   text-align: center;
+  text-shadow: #fbfaf5 2px 2px 5px;
 }
 ul {
   padding: 0;
